@@ -1,0 +1,21 @@
+===>  THIS IS THE RANDOM FIT VMP  <===
+
+DATACENTER:
+Num of PMs: h_size = 4,
+Num of VMs: v_size = 8
+Number of CRITICAL VMs: 3 (37.5%)
+
+**** Solution P ****
+1 3 4 4 2 1 3 2 
+
+PM_CS = 3, PM_NCS = 4, PM_ON = 4, VMs_NCS = 5
+
+CL_CS = 1.0 , CL_NCS = 2.0
+
+Number of Alocated VMs: 8 
+
+COSTS:	Energy Cons.: 4141.67	Dispersion Level.: 1.33333
+Commitment of the PMs:
+[0]: 2	[1]: 1	[2]: 1	[3]: 1	
+
+
